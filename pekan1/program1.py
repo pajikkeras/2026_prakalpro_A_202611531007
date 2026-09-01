@@ -11,4 +11,4 @@ print("Progrram ini menghasilkan")
 print("Empat baris output")
 print("/ \\ // \\\ /// \\\\\\")
 print("program ini" + "dibuat oleh a\n"
-      + "Muhammad Rasya Fahrozi dan 2611531007.")
+      + "Muhammad Rasya Fahrozi dan NIM :2611531007.")
