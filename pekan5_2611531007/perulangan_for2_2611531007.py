@@ -6,9 +6,9 @@
 ulang_1007 = int(input ("Masukkan jumlah perulangan:"))
 print("Perulangan ke-0 sampai ke-", ulang_1007-1)
 
-for i in range(ulang_1007):
-    print(i, end=" ")
+for i_1007 in range(ulang_1007):
+    print(i_1007, end=" ")
 print()
 print("Perulangan ke-1 sampai ke-", ulang_1007)
-for i in range(ulang_1007):
-    print(i+1, end=" ")
+for i_1007 in range(ulang_1007):
+    print(i_1007+1, end=" ")

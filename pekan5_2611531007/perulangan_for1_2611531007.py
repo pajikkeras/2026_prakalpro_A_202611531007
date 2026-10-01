@@ -5,5 +5,5 @@
 
 ulang_1007 = int(input("Masukkan jumlah perulangan: "))
 
-for i in range (ulang_1007):
+for i_1007 in range (ulang_1007):
     print(f"Perulangan Ke- {1}")
