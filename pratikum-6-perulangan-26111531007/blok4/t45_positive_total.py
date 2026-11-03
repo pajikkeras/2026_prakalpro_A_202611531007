@@ -8,5 +8,5 @@ while True:
         continue
     print("Positive number: ", number)
     total += number
-    print("Total: ",total)
+print("Total: ",total)
 print()
