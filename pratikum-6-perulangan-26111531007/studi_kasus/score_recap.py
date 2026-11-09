@@ -11,7 +11,7 @@ lolos = 0
 lowest = 100
 
 for i in range (1, 1 + n ):
-    print(f"Student ke {i}") 
+    print("Student ke "), n 
     score = int(input("Enter score: "))
     
     while score < 0 or score > 100:
@@ -27,7 +27,7 @@ for i in range (1, 1 + n ):
 
 average = round(total / n, 2)
 
-print((f"Total score   : {total}"))
-print((f"Average score : {average}"))
-print((f"lolos         : {lolos}"))
-print((f"Lowest score  : {lowest}"))
+print(("Total score   : ")),total
+print(("Average score : ")),average
+print(("lolos         : ")),lolos
+print(("Lowest score  : ")),lowest
