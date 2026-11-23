@@ -5,3 +5,4 @@
 phone = "082611531007"
 masked = phone[:4] + "*" * 4 + phone[-3:]
 print(masked)
+

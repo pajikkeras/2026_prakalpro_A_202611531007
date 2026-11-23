@@ -14,4 +14,3 @@ name.lower()
 print (name.lower ())
 
 print(name)
-

@@ -13,5 +13,3 @@ for char in text.lower():
     if char in ["a","i","u","e","o"]:
         count += 1
 print("Vowels:", count)
-
-
