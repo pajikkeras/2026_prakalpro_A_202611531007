@@ -50,5 +50,5 @@ print("Name".ljust(10) + ":" ,name)
 print("NIM".ljust(10) + ":" ,nim)
 print("Username".ljust(10) + ":" ,username)
 print("Intake".ljust(10) + ":","20" + nim[:2])
-
+    
 print("=" * 30)
